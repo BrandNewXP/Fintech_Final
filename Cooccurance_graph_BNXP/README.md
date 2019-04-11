@@ -5,9 +5,9 @@
 * 把要分析的csv檔放在同個資料夾，取名為'cooccurance_matrix.csv'
 * 這次使用的matrix為Fintech_Final/matrix_csv/cooccurance_m_has_row.csv
 ### Output
-* Heat map
+* Heat map(seaborn)
 ![image](https://github.com/BrandNewXP/Fintech_Final/blob/master/Cooccurance_graph_BNXP/FThw2_1.png)
-* Network map
+* Network map(networkz)
 ![image](https://github.com/BrandNewXP/Fintech_Final/blob/master/Cooccurance_graph_BNXP/FThw2_2.png)
 ### Reference
 * https://data-flair.training/blogs/python-heatmap-word-cloud/
