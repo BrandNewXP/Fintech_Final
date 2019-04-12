@@ -15,3 +15,4 @@
 ### Matplotlib: Show Chinese
 * https://daxpowerbi.com/如何在win-10解決matplotlib中文顯示的問題/
 * https://www.jianshu.com/p/ff0dc006a3dc
+* https://medium.com/marketingdatascience/解決python-3-matplotlib與seaborn視覺化套件中文顯示問題-f7b3773a889b
