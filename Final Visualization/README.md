@@ -6,8 +6,8 @@
 * 這次使用的matrix為Fintech_Final/matrix_csv/cooccurance_m_has_row.csv
 ### Output
 * Heat map(seaborn)
-![image](https://github.com/BrandNewXP/Fintech_Final/blob/master/Cooccurance_graph_BNXP/FThw2_1.png)
 ![image](https://github.com/BrandNewXP/Fintech_Final/blob/master/Final%20Visualization/Heatmap.png)
+![image](https://github.com/BrandNewXP/Fintech_Final/blob/master/Final%20Visualization/Heatmap_1.png)
 * Network map(networkz)
 ![image](https://github.com/BrandNewXP/Fintech_Final/blob/master/Cooccurance_graph_BNXP/FThw2_2.png)
 ![image](https://github.com/BrandNewXP/Fintech_Final/blob/master/Final%20Visualization/Networkx.png)
