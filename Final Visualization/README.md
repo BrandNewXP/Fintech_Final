@@ -7,6 +7,7 @@
 ### Output
 * Heat map(seaborn)
 ![image](https://github.com/BrandNewXP/Fintech_Final/blob/master/Cooccurance_graph_BNXP/FThw2_1.png)
+![image](https://github.com/BrandNewXP/Fintech_Final/blob/master/Final%20Visualization/Heatmap.png)
 * Network map(networkz)
 ![image](https://github.com/BrandNewXP/Fintech_Final/blob/master/Cooccurance_graph_BNXP/FThw2_2.png)
 ### Reference
