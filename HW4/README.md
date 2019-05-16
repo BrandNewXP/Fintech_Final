@@ -3,10 +3,49 @@
 * Monthly:
 * Weekly:
 
+	Fund	Monthly ASSR	Fund	Weekly ASSR
+0	HEWL	0.304391	HEWL	0.137717
+1	DBEU	0.292739	DBEU	0.115289
+2	HEWU	0.265886	EUSC	0.113459
+3	HEDJ	0.259135	HEWU	0.108190
+4	DBUK	0.250046	HEDJ	0.106509
+5	DBEZ	0.243702	EWGS	0.105818
+6	EUSC	0.241931	DBUK	0.105387
+7	HEZU	0.236100	DBEZ	0.102702
+8	EWN	0.215166	HEZU	0.099072
+9	EWGS	0.214821	EWN	0.095036
+10	FSZ	0.209183	DEZU	0.093829
+
 
 2. Omega evaluation
 * Monthly:
 * Weekly:
+
+|Rank         |ETF	       |Sharp Omega   |
+| :---------: |:----------:| :-----------:|:---------:|
+|1	      |EURL |-0.181068|
+|2            |UPV  |-0.325758|
+|3 	      |FIEE |-0.340191|
+|4	      |EWGS |-0.385697|
+|5	      |EWO  |-0.401249|
+|6	      |GREK |-0.411603|
+|7            |HEWI |-0.460622|
+|8	      |EWI	       |-0.509425|
+|9	      |FEUZ	       |-0.516417|
+|10           |EWN	       |-0.524770|
+
+	ETF	Sharp Omega
+Rank		
+1	EURL	-0.556641
+2	UPV	-0.717289
+3	FIEE	-0.722646
+4	GREK	-0.756078
+5	EPV	-0.796526
+6	EUFN	-0.831639
+7	EWI	-0.852820
+8	HEWI	-0.856863
+9	ENOR	-0.858421
+10	EWO	-0.860309
 
 
 3. Q measure evaluation
