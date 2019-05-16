@@ -12,11 +12,18 @@
 3. Q measure evaluation
 * Monthly:
 
-| Tables        | Are           | Cool  |
+| Rank        | Name           | Cool  |
 | ------------- |:-------------:| -----:|
-| 第三欄        | 靠右對齊      | $1600 |
-| 第二欄        | 置中對齊      |   $12 |
-| 斑馬條紋      | 是整齊的      |    $1 |
+| 1        | DBEU      | $1600 |
+| 2        | HEWU      |   $12 |
+| 3      | HEWL      |    $1 |
+| 4        | DBUK      | $1600 |
+| 5        | HEDJ      |   $12 |
+| 6      | DBEZ      |    $1 |
+| 7        | HEZU      | $1600 |
+| 8        | EUSC      |   $12 |
+| 9      | HFXE      |    $1 |
+| 10      | EWL      |    $1 |
 
 * Weekly:
 ![image](https://github.com/BrandNewXP/Fintech_Final/blob/master/HW4/Rank_Form/Weekly.png)
