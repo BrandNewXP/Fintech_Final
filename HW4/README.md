@@ -11,6 +11,11 @@
 
 3. Q measure evaluation
 * Monthly:
-![image](https://github.com/BrandNewXP/Fintech_Final/blob/master/HW4/Rank_Form/Monthly.png)
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| 第三欄        | 靠右對齊      | $1600 |
+| 第二欄        | 置中對齊      |   $12 |
+| 斑馬條紋      | 是整齊的      |    $1 |
+
 * Weekly:
 ![image](https://github.com/BrandNewXP/Fintech_Final/blob/master/HW4/Rank_Form/Weekly.png)
