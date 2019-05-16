@@ -3,8 +3,9 @@
 * Monthly:
 * Weekly:
 
-Rank	|Fund	|Monthly ASSR
-| :---------: |:----------:| :-----------:|
+        |Month                |
+Rank	|Fund	|Monthly ASSR |
+| :---: |:-----:| :----------:|
 0	|HEWL	|0.304391
 1	|DBEU	|0.292739
 2	|HEWU	|0.265886
